@@ -1,7 +1,13 @@
 Hello EPIC Predocs,
 
+
+Hello
+Hello
+
 This is a file we will play around with
 
 to learn the basics of Git and hosting on Github.
 
 Please feel free to add more lines of text to this files Hello Hello
+
+Ok Adding more lines of Code
