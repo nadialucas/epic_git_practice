@@ -6,4 +6,4 @@ to learn the basics of Git and hosting on Github.
 
 Please feel free to add more lines of text to the 
 
-bottom of this file.
+bottom of this file. Bethel. 
